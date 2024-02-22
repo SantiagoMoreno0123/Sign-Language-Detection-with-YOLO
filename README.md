@@ -1,7 +1,7 @@
 # Sign Language Detection with YOLOv8
 
 ## Authors
-- @JoseMaese
+- [@josemaese](https://github.com/JoseMaese)
 - @Santiago Moreno Ordoñez
 
 ## Overview
