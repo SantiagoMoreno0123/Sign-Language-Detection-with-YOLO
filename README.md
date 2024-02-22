@@ -33,3 +33,8 @@ Before running the project, ensure you have the following components and librari
 Run the main script:
 ```bash
 python sign_language_detection.py
+
+## Training results
+[![Training results](Images/graficas_sign_language.png)](Images/graficas_sign_language.png)
+[![Confusion matrix](Images/matriz.png)](Images/matriz.png)
+
