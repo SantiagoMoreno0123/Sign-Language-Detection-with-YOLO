@@ -2,7 +2,7 @@
 
 ## Authors
 - [@josemaese](https://github.com/JoseMaese)
-- @Santiago Moreno Ordoñez
+- [@santiagomoreno0123](https://github.com/santiagomoreno0123)
 
 ## Overview
 This project, named "Sign Language Detection with YOLOv8," utilizes a Raspberry Pi equipped with a webcam and a Sense HAT module to detect sign language gestures. The detected signs are displayed on the Sense HAT LED matrix and also vocalized through a Bluetooth-connected speaker.
